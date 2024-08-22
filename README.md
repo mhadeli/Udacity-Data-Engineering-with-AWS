@@ -68,6 +68,6 @@ Dive into the concept of data pipelines.
 
 ___
 
-<img src="./Certificate.png">
+
 
 [Program Syllabus](./Data%2BEngineering%2BNanodegree%2BProgram%2BSyllabus.pdf), more information about this program can be found by visiting [Udacity Data Engineering ND](https://www.udacity.com/course/data-engineer-nanodegree--nd027).
